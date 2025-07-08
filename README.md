@@ -27,4 +27,5 @@ Suppose you chose the first door. When Monty reveals a empty door, it means one 
 
 He's not just picking any random door, he can't without possibily revealing the cat.
 He's is providing you with information about the game. Filtering one of the answers out for you.
-Making the odds twice as good as your original 1/3 pick and hold strategy.
+Making the odds twice as good as your original 1/3 pick and hold strategy. 
+But only if you utilise your information to switch...
